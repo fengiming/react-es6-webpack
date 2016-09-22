@@ -1,5 +1,6 @@
 ## react-es6-webpack
-基于ES6语法和webpack构建工具的一个react实例
+
+基于ES5\ES6和webpack构建工具的一个react项目实例
 
 ## 项目结构说明
 
